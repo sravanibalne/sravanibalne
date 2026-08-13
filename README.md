@@ -14,6 +14,7 @@ Full Stack Developer with 9+ years building enterprise systems at Oracle, now fo
 
 
 **Featured projects:**
+- [`pulseapi-docs-assistant`](https://github.com/sbalne/pulseapi-docs-assistant) — Code-first AI chatbot with LangChain/LangGraph, Streamlit + FastAPI, and a real embeddable chat widget
 - [`support-triage-agent`](https://github.com/sbalne/support-triage-agent) — Autonomous AI agent for customer support triage: classification, priority assessment, and FAQ-grounded reply drafting (n8n + Anthropic API)
 - [`ai-dev-foundations`](https://github.com/sbalne/ai-dev-foundations) — LLM API integration, structured & few-shot prompting, reliability patterns, and workflow automation fundamentals
 
